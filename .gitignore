@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Node / Frontend ###
+node_modules/
+dist/
+crs-frontend/node_modules/
+crs-frontend/dist/
+
